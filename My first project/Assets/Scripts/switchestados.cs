@@ -9,7 +9,7 @@ public class switchestados : MonoBehaviour
     // status 2: calmo
     // status 3: covarde
 
-    int status = 1;
+    int status = 1231;
 
     void Start()
     {
